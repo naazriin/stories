@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-23 15:53+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\core\templates\partials\navbar.html:12
+msgid "Home"
+msgstr "Ana sehife"
+
+#: .\core\templates\partials\navbar.html:13
+msgid "About"
+msgstr "Haqqimizda"
+
+#: .\core\templates\partials\navbar.html:14
+msgid "Stories"
+msgstr "Marketler"
+
+#: .\core\templates\partials\navbar.html:15
+msgid "Recipes"
+msgstr "Resipler"
+
+#: .\core\templates\partials\navbar.html:16
+msgid "Contact"
+msgstr "Elaqe"
+
+#: .\core\views.py:21
+msgid "Your message has been sent successfully!"
+msgstr "Mesajiniz gonderildi"
+
+#: .\core\views.py:24
+msgid "Your message has not been sent!"
+msgstr "Mesajiniz gonderilmedi"
+
+
